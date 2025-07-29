@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/meet-landing-page)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/angie-create/meet-landing-page)
+- Live Site URL: [Live Demo](https://angie-create.github.io/meet-landing-page/)
 
 ## My process
 
@@ -111,7 +111,6 @@ Areas I want to continue focusing on:
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
-# meet-landing-page
+- LinkedIn - [Angelica Parada](https://www.linkedin.com/in/angelica-parada/)
+- Frontend Mentor - [@angie-create](https://www.frontendmentor.io/profile/angie-create)
+- GitHub - [@angie-create](https://github.com/angie-create)
